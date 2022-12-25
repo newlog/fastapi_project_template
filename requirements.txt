@@ -1,0 +1,4 @@
+instagrapi==1.16.30
+Pillow==9.3.0
+uvicorn==0.20.0
+fastapi==0.88.0
